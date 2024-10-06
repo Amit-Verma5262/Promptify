@@ -13,8 +13,8 @@ Promptify is an open-source AI prompting tool designed for users to discover, cr
 ## Tech Stack
 
 - **Frontend**: Next.js, React, Tailwind CSS
-- **Backend**: Node.js, Express.js (if applicable)
-- **Database**: MongoDB (if applicable)
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
 
 ## Installation
 
