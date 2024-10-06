@@ -23,4 +23,4 @@ To get started with Promptify, follow these steps:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/promptify.git
+   git clone https://github.com/Amit-Verma5262/Promptify.git
