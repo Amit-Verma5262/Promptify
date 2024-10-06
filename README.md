@@ -1,3 +1,4 @@
+
 # Promptify
 
 Promptify is an open-source AI prompting tool designed for users to discover, create, and share creative prompts. This application harnesses the power of AI to help users generate unique and innovative prompts for various use cases.
@@ -20,7 +21,45 @@ Promptify is an open-source AI prompting tool designed for users to discover, cr
 
 To get started with Promptify, follow these steps:
 
-1. Clone the repository:
+1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/Amit-Verma5262/Promptify.git
+   git clone https://github.com/yourusername/promptify.git
+2. **Navigate to the project directory**
+    ```bash 
+    cd promptify
+3. **Install the dependencies**
+    ```bash
+    npm install
+4. **Run the development server**
+    ```bash
+    npm run dev
+5. **Open your browser and go to http://localhost:3000 to see the application in action!**
+
+## Contributing
+
+Contributions are welcome! If you'd like to contribute to Promptify, please follow these steps:
+
+Fork the repository.
+
+Create a new branch for your feature or bug fix:
+
+```bash git checkout -b feature-name```
+
+Make your changes and commit them:
+
+```bash git commit -m "Description of your changes"```
+
+Push to your branch:
+
+```bash git push origin feature-name```
+
+Open a pull request to the main repository.
+
+
+
+### Customization Notes:
+1. **Repository URL**: `https://github.com/Amit-Verma5262/Promptify.git`
+2. **Contact Information**: Update placeholders like "Amit Verma" and "amitverma5262.02@gmail.com" with your actual details.
+
+
