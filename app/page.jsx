@@ -1,5 +1,4 @@
 import Feed from "@components/Feed";
-import React, { Suspense } from 'react';
 
 
 const Home = () => (
