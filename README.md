@@ -1,7 +1,7 @@
 
 # Promptify
 
-Promptify is an open-source AI prompting tool designed for users to discover, create, and share creative prompts. This application harnesses the power of AI to help users generate unique and innovative prompts for various use cases.
+Promptify is a prompting tool designed for users to discover, create, and share creative prompts. This application harnesses the power of AI to help users generate unique and innovative prompts for various use cases.
 
 ## Features
 
@@ -60,6 +60,8 @@ Open a pull request to the main repository.
 
 ### Customization Notes:
 1. **Repository URL**: `https://github.com/Amit-Verma5262/Promptify.git`
-2. **Contact Information**: Update placeholders like "Amit Verma" and "amitverma5262.02@gmail.com" with your actual details.
+2. **Contact Information**: 
+-Amit Verma
+-amitverma5262.02@gmail.com
 
 
