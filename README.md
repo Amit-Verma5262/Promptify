@@ -19,7 +19,7 @@ Got an Idea or Feature??  **feel free to Contribute and follow the Guidelines!!*
 ## Tech Stack
 
 - **Frontend**: Next.js, React, Tailwind CSS
-- **Backend**: Node.js, Express.js
+- **Backend**: Node.js, Nextjs , Next-auth
 - **Database**: MongoDB
 
 ## 🚀 How to Contribute
